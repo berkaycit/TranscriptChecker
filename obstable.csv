@@ -1,0 +1,48 @@
+Kod,Ad,Kredi,AKTS,Ort,Harf,Z
+ATB 2801,PRINCIPLES OF KEMAL ATATURK I,2,2,,CB,Z
+ATB 2802,PRINCIPLES OF KEMAL ATATURK II,2,2,,AA,Z
+CENG 1004,Introduction to Object Oriented Programming,6,6,,AA,Z
+CENG 1005,Computer Science Orientation,2,2,,BB,Z
+CENG 2001,Data Structures and Algorithms,6,6,,BA,Z
+CENG 2006,Statistics and Probability for Engineers,4,4,,DC,Z
+CENG 2008,Database Management Systems,5,5,,BA,Z
+CENG 2031,Digital Logic Design,6,6,,CB,Z
+CENG 3523,Scientific Computing,6,6,,DD,S
+CENG 4506,Logic Programming,6,6,,BB,S
+CENG 4512,Compiler Design,6,6,,AA,S
+CENG 4531,System Programming,6,6,,BB,S
+ENF 1970,Coklu Ortam Uygulamalari,3,3,,BA,S
+ENG 1801,Academic Writing and Oral Presentation Skills I,4,4,,BB,Z
+ENG 1802,Academic Writing and Oral Presentation Skills II,4,4,,CC,Z
+MATH 1851,Calculus I,6,6,,DD,Z
+MATH 1852,Calculus II,6,6,,BB,Z
+MATH 1854,Basic Linear Algebra for Engineers,4,4,,CB,Z
+MATH 2853,Differential Equations,4,4,,CB,Z
+PHYS 1851,General Physics I,6,6,,CC,Z
+PHYS 1852,General Physics II,6,6,,CC,Z
+TDB 1801,TURKISH I,2,2,,BB,Z
+TDB 1802,TURKISH II,2,2,,BB,Z
+BIO 1851,Introduction to Biology,4,4,74,BA,Z
+BSD 1980,Yuzme Ogretimi ve Teorisi,3,3,100,AA,S
+BSM 3513,Bilimsel Hesaplama Yontemleri,6,6,65,DC,S
+CENG 1003,Programming Fundamentals,6,6,79,BA,Z
+CENG 2003,Discrete Computational Structures,5,5,52,CC,Z
+CENG 3003,Design and Analysis of Algorithms,5,5,60,CB,Z
+CENG 3507,Web Development and Programming,6,6,100,AA,S
+CENG 3001,Summer Practice I,4,4,,GG,Z
+CENG 3505,GUI Programming,6,6,92,AA,S
+CENG 3543,Computer Networks,6,6,55,FD,S
+CENG 4005,Formal Languages and Abstract Machines,6,6,54,CC,Z
+CENG 4515,Data Science and Analytics,6,6,45,FF,S
+ENG 2801,Academic Writing and Oral Presentation Skills III,4,4,68,DC,Z
+CENG 1006,Social and Professional Issues in Computer Science,2,2,76,BA,Z
+CENG 2002,Programming Language Concepts,6,6,83,AA,Z
+CENG 2032,Computer Organization,5,5,59,CB,Z
+CENG 2034,Operating Systems,5,5,82,BA,Z
+CENG 3004,Software Engineering,6,6,80,BB,S
+CENG 3516,Statistical Computing,6,6,90,AA,S
+CENG 3522,Applied Machine Learning,6,6,82,BB,S
+CENG 3526,Natural Language Processing,6,6,85,BA,S
+CENG 3528,Web Mining,6,6,85,BA,S
+CENG 3544,Computer and Network Security,6,6,71,BB,S
+ENF 2900,Icerik Yonetim Sistemleri (UE),3,3,25,FF,S
